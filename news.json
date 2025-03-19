@@ -1,6 +1,6 @@
 [
     {
-        "id": "01",
+        "id": 1,
         "category": "F3 Academy",
         "title": "Resumen de F3 en Laguna Seca",
         "image": "https://raw.githubusercontent.com/justerbass/noticias/refs/heads/main/images/1-f3.png",
@@ -8,7 +8,7 @@
     },
 
     {
-        "id": "02",
+        "id": 2,
         "category": "F2 Junior",
         "title": "Resumen de F2 en Virginia",
         "image": "https://raw.githubusercontent.com/justerbass/noticias/refs/heads/main/images/1-f2.png",
@@ -16,7 +16,7 @@
     },
 
     {
-        "id": "03",
+        "id": 3,
         "category": "F1 Pro",
         "title": "Resumen de F1 en Virginia",
         "image": "https://raw.githubusercontent.com/justerbass/noticias/refs/heads/main/images/1-f1.png",
@@ -24,7 +24,7 @@
     },
 
     {
-        "id": "04",
+        "id": 4,
         "category": "F3 Academy",
         "title": "Resumen de F3 en Navarra",
         "image": "https://raw.githubusercontent.com/justerbass/noticias/refs/heads/main/images/2-f3.png",
@@ -33,7 +33,7 @@
     },
 
     {
-        "id": "05",
+        "id": 5,
         "category": "F2 Junior",
         "title": "Resumen de F2 en Barcelona",
         "image": "https://raw.githubusercontent.com/justerbass/noticias/refs/heads/main/images/2-f2.png",
@@ -42,7 +42,7 @@
     },
 
     {
-        "id": "06",
+        "id": 6,
         "category": "F1 Pro",
         "title": "Resumen de F1 en Barcelona",
         "image": "https://raw.githubusercontent.com/justerbass/noticias/refs/heads/main/images/2-f1.png",
@@ -51,7 +51,7 @@
     },
 
     {
-        "id":"07",
+        "id":7,
         "category":"F3 Academy",
         "title":"Resumen de F3 en Oran Park",
         "image":"https://raw.githubusercontent.com/justerbass/noticias/refs/heads/main/images/3-f3.png",
@@ -59,7 +59,7 @@
     },
 
     {
-        "id":"08",
+        "id":8,
         "category":"F2 Junior",
         "title":"Resumen de F2 en Okayama",
         "image":"https://raw.githubusercontent.com/justerbass/noticias/refs/heads/main/images/3-f2.png",
@@ -67,7 +67,7 @@
     },
 
     {
-        "id":"09",
+        "id":9,
         "category":"F1 Pro",
         "title":"Resumen de F1 en Okayama",
         "image":"https://raw.githubusercontent.com/justerbass/noticias/refs/heads/main/images/3-f1.png",
@@ -75,7 +75,7 @@
     },
 
     {
-        "id":"10",
+        "id":10,
         "category":"F3 Academy",
         "title":"Resumen de F3 en Silverstone",
         "image":"https://raw.githubusercontent.com/justerbass/noticias/refs/heads/main/images/4-f3.png",
