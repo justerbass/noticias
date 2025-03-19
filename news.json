@@ -1,6 +1,6 @@
 [
     {
-        "id": "1",
+        "id": "01",
         "category": "F3 Academy",
         "title": "Resumen de F3 en Laguna Seca",
         "image": "https://raw.githubusercontent.com/justerbass/noticias/refs/heads/main/images/1-f3.png",
@@ -8,7 +8,7 @@
     },
 
     {
-        "id": "2",
+        "id": "02",
         "category": "F2 Junior",
         "title": "Resumen de F2 en Virginia",
         "image": "https://raw.githubusercontent.com/justerbass/noticias/refs/heads/main/images/1-f2.png",
@@ -16,7 +16,7 @@
     },
 
     {
-        "id": "3",
+        "id": "03",
         "category": "F1 Pro",
         "title": "Resumen de F1 en Virginia",
         "image": "https://raw.githubusercontent.com/justerbass/noticias/refs/heads/main/images/1-f1.png",
@@ -24,7 +24,7 @@
     },
 
     {
-        "id": "4",
+        "id": "04",
         "category": "F3 Academy",
         "title": "Resumen de F3 en Navarra",
         "image": "https://raw.githubusercontent.com/justerbass/noticias/refs/heads/main/images/2-f3.png",
@@ -33,7 +33,7 @@
     },
 
     {
-        "id": "5",
+        "id": "05",
         "category": "F2 Junior",
         "title": "Resumen de F2 en Barcelona",
         "image": "https://raw.githubusercontent.com/justerbass/noticias/refs/heads/main/images/2-f2.png",
@@ -42,34 +42,38 @@
     },
 
     {
-        "id": "6",
+        "id": "06",
         "category": "F1 Pro",
         "title": "Resumen de F1 en Barcelona",
         "image": "https://raw.githubusercontent.com/justerbass/noticias/refs/heads/main/images/2-f1.png",
         "content": "¡F1 EN CATALUÑA! DIEGO FERNÁNDEZ SIGUE AL FRENTE EN UNA CARRERA EMOCIONANTE\n \n🔥 Barcelona vibró con la victoria estratégica de Cristian Pérez (Red Bull). Diego Fernández sigue líder, pero los incidentes marcaron la jornada. ¡La lucha se intensifica en el campeonato! Descubre todos los detalles y sanciones en Twitter e Instagram."
 
     },
+
     {
-        "id":"7",
+        "id":"07",
         "category":"F3 Academy",
         "title":"Resumen de F3 en Oran Park",
         "image":"https://raw.githubusercontent.com/justerbass/noticias/refs/heads/main/images/3-f3.png",
         "content": "🏎️🔥 ¡BATALLA SIN CUARTEL EN ORAN PARK! RIEIRO Y TREBOL SE IMPONEN EN UNA CARRERA ELECTRIZANTE \n\n 🔥🏎️ El Circuito de Oran Park fue escenario de una carrera sprint llena de drama y emoción. Alejandro Rieiro demostró por qué es un contendiente de élite, resistiendo la presión hasta la última vuelta. Desde la pole position, Rieiro tomó el mando, pero el caos no tardó en llegar: un incidente en la salida involucró a los dos coches de Red Bull (Alfaro), provocando la entrada del Safety Car. Tras la resalida, Trebol inició una escalada, pasando de la sexta a la cuarta posición, mientras Goldaracena sufría y caía en la clasificación.\n\n🏁 RESULTADOS FINALES - CARRERA SPRINT 🏁\n🥇 Alejandro Rieiro – Victoria impecable desde la pole\n🥈 Ian Trebol – De quinto a segundo con un ritmo imparable\n🥉 Alfaro – Se repone del desastre inicial y cierra el podio\n\n🔥 Una carrera que lo tuvo todo: caos, adelantamientos de locura y un final de alto voltaje. ¡La temporada apenas comienza y ya estamos al rojo vivo! 🔥🏎️\n\nLa carrera principal de la F3 en Oran Park se convirtió en un auténtico campo de batalla, con adelantamientos, caos y estrategia en boxes marcando el destino de los pilotos. Ian Trebol cruzó la meta como ganador, pero la polémica no tardó en llegar. Con la parrilla invertida, Ignacio Jiménez arrancó desde la pole, pero una mala salida lo dejó fuera de la pelea en segundos. Los Red Bull de Alfaro protagonizaron otro incidente en la salida, obligando al Safety Car a intervenir una vez más.\n\nTrebol aprovechó la resalida como un misil, ascendiendo rápidamente hasta la segunda posición, mientras que Rieiro inició una remontada desde la décima posición. Las paradas en boxes fueron clave: Trebol y Rieiro entraron prácticamente al mismo tiempo y salieron pegados. En las vueltas finales, Rieiro redujo la distancia con Trebol, pero un doblado frustró su avance, dejando al piloto de la P1 con el control de la carrera.\n\nLa victoria de Trebol quedó en el aire tras una revisión en la mazmorra: una maniobra sobre Martín en la primera parte de la carrera le costó 10 segundos de penalización. A pesar de la sanción, Trebol mantuvo la victoria, seguido de Rieiro en P2 y Chevarría cerrando el podio.\n\n🏁 RESULTADOS FINALES 🏁\n🥇 Ian Trebol – Gana con polémica tras la sanción\n🥈 Alejandro Rieiro – Impresionante remontada desde la P10\n🥉 Martín Chevarría – Resiste la presión y se sube al podio\n\n🔥 Dos carreras, dos finales de locura y un campeonato que apenas comienza. ¡La F3 está que arde! 🔥🏎️"
     },
+
     {
-        "id":"8",
+        "id":"08",
         "category":"F2 Junior",
         "title":"Resumen de F2 en Okayama",
         "image":"https://raw.githubusercontent.com/justerbass/noticias/refs/heads/main/images/3-f2.png",
         "content": "🔥 ¡CAOS, ESTRATEGIA Y GLORIA EN LA F2!\n\n 🔥¡El GP del Pacífico de F2 en Okayama lo tuvo TODO! 🚀 Un inicio limpio, pero pronto la pista se convirtió en un campo de batalla: trompos, toques y adelantamientos de infarto. 😱\n\n💥 Godoy chocó con un Mercedes, Eder Goros y Jorge de la Gracia acabaron trompeando, y hasta hubo pactos de caballeros tras maniobras polémicas. ¡La tensión estuvo al límite! 😤🔥\n\n🎯 Estrategia maestra de Fariñas, que con una parada clave se puso en cabeza y resistió el asedio brutal de Álvaro Fernández. ¡Defensa impecable y victoria de oro! 🏆\n\n🏁 Top 3 final:\n🥇 Adrián Fariñas (¡brillante!)\n🥈 Álvaro Fernández (pole y vuelta rápida, pero no bastó)\n🥉 Galvar Yartu (siempre al acecho)\n\n⚡ En el campeonato: Jordan lidera en constructores, y Álvaro Fernández sigue en la cima de pilotos. ¡Pero Fariñas aprieta fuerte! 🔥\n\n📢 ¿Fue la mejor carrera del año? Opina en los comentarios. ⬇️🏎💨"  
     },
+
     {
-        "id":"9",
+        "id":"09",
         "category":"F1 Pro",
         "title":"Resumen de F1 en Okayama",
         "image":"https://raw.githubusercontent.com/justerbass/noticias/refs/heads/main/images/3-f1.png",
         "content": "🔥 ¡LOCURA TOTAL EN EL GP DE OKAYAMA!\n\n 🚀🔥La Fórmula 1 llegó a Japón y el caos estalló desde la primera curva. 💥 Fran (PhotoRacerTV) salió último y fue golpeado por detrás en medio de una salida salvaje. Trompos, contactos y sanciones marcaron una carrera donde los comisarios no dieron tregua. 🏁⚖️\n\n🔥 Momentos clave:\n💥 Tejero perdió el control en la vuelta 23 y casi se lleva puesto a Xurde. Sanción y multa para Red Bull.\n💥 Pedro Galisteo (Jordan) intentó esquivar a un Ferrari, pero terminó chocando con Gerard Boldu (Williams).\n💥 Wick (Red Bull), Ignacio Rodríguez (Jordan) y Ángel Trinidad de Aro (Aston Martin) también fueron protagonistas de incidentes bajo la lupa de la “mazmorra” de los comisarios.\n💥 Rejoins peligrosos, pactos tardíos y bloqueos milimétricos hicieron de esta carrera una auténtica batalla sin cuartel.\n\n🏆 Resultados finales:\n🥇 Diego Fernández imparable, victoria sólida.\n🥈 Hugo Wolf, al acecho.\n🥉 Mar de Fulgencio, carrera espectacular.\n🔹 Fran (PhotoRacerTV) terminó 14°, sumando puntos en el caos.\n\n🏎️ Clasificación general:\n📌 Williams lidera en constructores, con Ferrari y Kick en persecución.\n📌 Diego Fernández manda en pilotos (85 pts), con Hugo Wolf pisándole los talones (80 pts).\n\n🔥 El título sigue en juego y la tensión va en aumento. ¿Fue la carrera más polémica del año? ¡Déjanos tu opinión! ⬇️🏎💨"
     },
+
     {
         "id":"10",
         "category":"F3 Academy",
