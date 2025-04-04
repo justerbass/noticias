@@ -125,9 +125,25 @@
     {
         "id":16,
         "category":"F3 Academy",
-        "title":"Resumen de F2 en Spa",
+        "title":"Resumen de F3 en Spa",
         "image":"https://raw.githubusercontent.com/justerbass/noticias/refs/heads/main/images/6-f3.png",
         "content":"🔥🏁 ¡RIEIRO CAMPEÓN DE PILOTOS Y RED BULL CAMPEÓN DE EQUIPOS EN UNA TEMPORADA DE LOCURA! 🏁🔥\n\n El GP de Spa cerró la F3 de la Photolague Simfy con caos, lluvia, choques… y gloria para los mejores. 💥👑\n\n🌧️ SPRINT RACE: RALLY ACUÁTICO EN SPA\nUna carrera al borde del desastre. Spa se inundó y la F3 se convirtió en una batalla por la supervivencia.\n💣 Alex Moreno partía en pole… y terminó haciendo más trompos que adelantamientos.\n🚧 Zurita contra el muro.\n💥 Janeiro trompeado.\n⚠️ Clarobollo lideraba y se fue solo.\n🤯 Mosquera al frente por un rato.\n🌊 El resto: Casado, Boldu, Bretones, García, Linares… todos resbalando por el circuito.\n☀️ Con el sol apareció Francisco Alfaro, que se llevó la victoria con un Red Bull que flotaba.\n🥈 Jonathan Aparicio hizo magia con el Renault.\n🥉 Alejandro Rieiro sumó puntos clave.\n💪 Moreno remontó hasta un P5 salvador.\n🎢 Y Echevarría… fiel a su estilo, cerró con otro show accidentado.\n\n🔥 CARRERA PRINCIPAL: EL INFIERNO FINAL EN SPA 🔥\nCon parrilla invertida, la última del año fue un festival de trompos, accidentes y tensión máxima.\n🚨 Mega accidente en las primeras vueltas: Clarobollo, Mosquera, Bretones… y Javier Jiménez destruido.\n⚠️ Safety car, estrategias cruzadas y nervios al límite.\n💨 Treble adelantando como loco, pero también besó el pasto.\n🤯 Alejandro Martín lideraba y trompeó solito.\n⚡ Alex Moreno aprovechó todo, voló en pista y tomó el control tras una parada perfecta.\n\n🥊 Final: Moreno, Rieiro y Alfaro a todo o nada.\n🏆 Moreno ganó la carrera.\n👑 Rieiro fue 2º y se coronó CAMPEÓN DE PILOTOS.\n🥉 Aparicio heredó el podio tras el golpe de Sergio García.\n🚫 Echevarría trompeó en la última curva y se quedó sin F2.\n\n🎉 Red Bull, con los puntos de Alfaro y Moreno, se llevó el campeonato de EQUIPOS.\n🔥 Un cierre de temporada cargado de adrenalina, golpes y gloria. Spa no perdonó."
+    },
+
+    {
+        "id":17,
+        "category":"F2 Junior",
+        "title":"Resumen de F2 en Spa",
+        "image":"https://raw.githubusercontent.com/justerbass/noticias/refs/heads/main/images/6-f2.png",
+        "content":"🏆 ÁLVARO FERNÁNDEZ Y HAAS CAMPEONES EN UNA FINAL CAÓTICA BAJO LA LLUVIA EN SPA 🏆\n\n¡La última carrera de la Fotolague F2 fue una locura total! Agua, choques y drama de principio a fin… y un cierre de temporada que no se olvida.\nDesde la Quali hubo desastre:\n💥 Fernández se accidentó en la primera curva\n⚠️ Galbarriartu con problemas\n⚡ Alex Moreno se llevó la pole\n🚨 Stradi arrancó desde el fondo\nEn carrera:\n🌧️ La pista mojada fue una trampa mortal\n🔁 Trompos, toques, accidentes y alerones volando\n🔥 Fariñas aprovechó el caos, lideró y ganó con sangre fría\n🥈 Wick Anderson e 🥉 Ignars cerraron el podio\n💪 Stradi remontó hasta el P4 con un carrerón\n🚫 Álvaro y Stradi se pelearon por la cuarta posición… y terminó mal para el campeón\n📊 Así quedó el campeonato:\n🏁 Álvaro Fernández campeón de pilotos con 113 puntos\n🥈 Ignars | 🥉 Galbarriartu\n👑 Haas se coronó campeón de equipos por solo 1 punto, gracias a Paula Moreno\n🤕 El más incidentado del año: David Hernández, sin discusión 😬\nUna carrera final que lo tuvo TODO. Final de película para una temporada brutal."
+    },
+
+    {
+        "id":18,
+        "category":"F1 Pro",
+        "title":"Resumen de F1 en Spa",
+        "image":"https://raw.githubusercontent.com/justerbass/noticias/refs/heads/main/images/6-f1.png",
+        "content":"🏁 ¡HUGO WOLF Y KICK-SAUBER CAMPEONES! DIEGO FERNÁNDEZ GANA EN SPA EN UNA CARRERA LLENA DE ROCES Y REMONTADAS 🏁\n\nLa última fecha de la Fórmula 1 en Bélgica fue un cóctel de tensión, estrategia y drama puro. Con el campeonato en juego, los nervios estaban al límite… y no faltaron los incidentes.\n🔝 Clasificación por equipos:\n🏆 Kicksuer\n🥈 Williams\n🥉 Red Bull\n🔢 Clasificación de pilotos al llegar a Spa:\n🏆 Hugo Wolf\n🥈 Diego Fernández\n🥉 Raúl Martín\n📉 FotoRacerTV llegaba con ilusiones y buen ritmo, pero en la largada Tony lo cerró y lo mandó al fondo. Sin Safety Car, la carrera siguió caliente: Iván Pérez y Guti también tuvieron problemas en la salida.\n🔥 Mientras tanto, FotoRacerTV comenzó a remontar, estirando su stint. Manuel fue el primero en parar. Más adelante, Óscar se quedó parado tras un incidente con Pao, generando tensión pero sin neutralización.\n🏆 Al final, Diego Fernández se llevó la victoria con una carrera sólida.\n🥈 Hugo Wolf cruzó segundo, asegurando el campeonato de pilotos\n🥉 Raúl Martín cerró el podio y el año con fuerza\n🧮 Posiciones clave:\n– FotoRacerTV terminó décimo tras una carrera complicada\n– Manuel fue P11\n– Kick-Sabuer se llevó el título de equipos, mientras McLaren cerró último\n📉 Para FotoRacerTV fue una temporada para el olvido, pero ya piensa en la revancha."
     }
       
 ] 
