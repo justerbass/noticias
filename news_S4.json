@@ -1,0 +1,25 @@
+[
+    {
+        "id": 1,
+        "category": "Academy",
+        "title": "¡Arranca la nueva temporada de la PhotoLeague! 🏁",
+        "image": "https://raw.githubusercontent.com/justerbass/noticias/refs/heads/main/images/3-f3.png",
+        "content": "¡Equipos listos, motores rugiendo y un hype que no se puede contener! 🔥🏎️"
+    },
+
+    {
+        "id": 2,
+        "category": "Junior",
+        "title": "Snetterton será el escenario donde estallará la batalla",
+        "image": "https://raw.githubusercontent.com/justerbass/noticias/refs/heads/main/images/3-f2.png",
+        "content": "Los equipos rugen, los pilotos afilan colmillos \nY tú… ¿estás preparado para lo que viene?"
+    },
+
+    {
+        "id": 3,
+        "category": "Elite",
+        "title": "🔥 Arranca la PhotoLeague Élite en Silverstone 🏁",
+        "image": "https://raw.githubusercontent.com/justerbass/noticias/refs/heads/main/images/4-f1.png",
+        "content": "El caos se desata, los nervios arden… y la Mazmorra afila las cadenas ⚠️"
+    }
+]
